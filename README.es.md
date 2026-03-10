@@ -27,13 +27,13 @@ Ademas, el foco estara en algo clave hoy en dia: el **diseno responsive**. Las p
 
 A continuacion encontraras las capturas de referencia de Twitch en sus versiones de PC, tablet y movil, junto con una vista adicional marcada por capas para ayudarte a detectar secciones y componentes visuales.
 
-![Referencia Twitch desktop](./assets/twitch-pc-screenshot.png "Referencia Twitch desktop")
+![Referencia Twitch desktop](./assets/optimized/twitch-pc-screenshot.png "Referencia Twitch desktop")
 
-![Referencia Twitch tablet](./assets/twitch-tablet-screenshot.png "Referencia Twitch tablet")
+![Referencia Twitch tablet](./assets/optimized/twitch-tablet-screenshot.png "Referencia Twitch tablet")
 
-![Referencia Twitch mobile](./assets/twitch-mobile-screenshot.png "Referencia Twitch mobile")
+![Referencia Twitch mobile](./assets/optimized/twitch-mobile-screenshot.png "Referencia Twitch mobile")
 
-![Referencia Twitch desktop por capas](./assets/twitch-xl-layered.png "Referencia Twitch desktop por capas")
+![Referencia Twitch desktop por capas](./assets/optimized/twitch-xl-layered.png "Referencia Twitch desktop por capas")
 
 ---
 
