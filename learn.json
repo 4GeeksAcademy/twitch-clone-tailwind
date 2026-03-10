@@ -1,0 +1,27 @@
+{
+  "gitpod": true,
+  "title": {
+    "en": "Twitch clone with Tailwind CSS",
+    "es": "Clon de Twitch con Tailwind CSS"
+  },
+  "status": "published",
+  "template_url": "https://github.com/4GeeksAcademy/html-hello",
+  "slug": "twitch-clone-tailwind",
+  "description": {
+    "en": "Build a responsive Twitch interface replica using only HTML and Tailwind CSS. Organize the layout into clear visual components, adapt it to mobile, tablet and desktop, and use placeholders where the reference images will be provided later.",
+    "es": "Construye una replica responsive de la interfaz de Twitch usando solo HTML y Tailwind CSS. Organiza el layout en componentes visuales claros, adaptalo a movil, tablet y escritorio, y usa placeholders donde luego se compartiran las imagenes de referencia."
+  },
+  "difficulty": "beginner",
+  "duration": 1,
+  "technologies": ["html", "css", "accessibility", "tailwind-css", "responsive-design"],
+  "talents": [
+    { "badge": "html-developer", "points": 3 },
+    { "badge": "css-developer", "points": 3 },
+    { "badge": "responsive-designer", "points": 2 },
+    { "badge": "tailwind-css-developer", "points": 2 },
+    { "badge": "accessibility-expert", "points": 1 }
+  ],
+  "translations": ["es", "en"],
+  "projectType": "project",
+  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id="
+}
