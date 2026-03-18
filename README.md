@@ -27,12 +27,16 @@ The main focus is also something critical today: **responsive design**. People c
 
 Below you will find the Twitch reference screenshots for desktop, tablet, and mobile layouts, plus an additional layered desktop view to help identify sections and visual components.
 
+### Desktop
 ![Twitch desktop reference](./assets/optimized/twitch-pc-screenshot.png "Twitch desktop reference")
 
+### Tablet
 ![Twitch tablet reference](./assets/optimized/twitch-tablet-screenshot.png "Twitch tablet reference")
 
+### Mobile
 ![Twitch mobile reference](./assets/optimized/twitch-mobile-screenshot.png "Twitch mobile reference")
 
+### Layered Desktop
 ![Twitch layered desktop reference](./assets/optimized/twitch-xl-layered.png "Twitch layered desktop reference")
 
 ---
