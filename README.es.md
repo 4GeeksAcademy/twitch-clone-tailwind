@@ -49,7 +49,7 @@ Sigue los pasos en [como comenzar un proyecto de codificacion](https://4geeks.co
 
 Importante: crea un nuevo repositorio en GitHub para tu codigo, actualiza el remoto (`git remote set-url origin <tu-nueva-url>`) y sube los cambios con `add`, `commit` y `push`.
 
-Para usar Tailwind en este proyecto sin un proceso de build, agrega dentro de tu `<head>` el CDN oficial de Tailwind CSS v4:
+Para incorporar Tailwind CSS en tu proyecto debes agregar dentro de tu `<head>` el CDN oficial de Tailwind CSS v4:
 
 ```html
 <head>
@@ -79,7 +79,7 @@ Solo debes usar:
 - HTML
 - Tailwind CSS
 
-Si trabajas sin build step, Tailwind debe integrarse con el **CDN de Tailwind CSS v4** mostrado arriba.
+Tailwind debe integrarse con el **CDN de Tailwind CSS v4** mostrado arriba.
 
 No debes usar:
 

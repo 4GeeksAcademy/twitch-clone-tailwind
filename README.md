@@ -53,7 +53,7 @@ Follow the steps in [how to start a coding project](https://4geeks.com/lesson/ho
 
 Important: create a new GitHub repository for your code, update the remote (`git remote set-url origin <your-new-url>`), and push your changes with `add`, `commit`, and `push`.
 
-To use Tailwind in this project without a build step, add the official Tailwind CSS v4 CDN snippet inside your `<head>`:
+To incorporate Tailwind CSS into your project, add the official Tailwind CSS v4 CDN snippet inside your `<head>`:
 
 ```html
 <head>
@@ -83,7 +83,7 @@ You may only use:
 - HTML
 - Tailwind CSS
 
-Tailwind must be integrated with the **Tailwind CSS v4 CDN** shown above when working without a build step.
+Tailwind must be integrated with the **Tailwind CSS v4 CDN** shown above.
 
 You may not use:
 
