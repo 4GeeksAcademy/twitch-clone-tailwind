@@ -53,6 +53,16 @@ Follow the steps in [how to start a coding project](https://4geeks.com/lesson/ho
 
 Important: create a new GitHub repository for your code, update the remote (`git remote set-url origin <your-new-url>`), and push your changes with `add`, `commit`, and `push`.
 
+To use Tailwind in this project without a build step, add the official Tailwind CSS v4 CDN snippet inside your `<head>`:
+
+```html
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+```
+
+If you use AI to generate markup or classes, explicitly tell it to work with **Tailwind CSS v4** and verify that it is **not** using `cdn.tailwindcss.com` or Tailwind v3 snippets.
+
 ---
 
 ## What you need to do
@@ -73,6 +83,8 @@ You may only use:
 - HTML
 - Tailwind CSS
 
+Tailwind must be integrated with the **Tailwind CSS v4 CDN** shown above when working without a build step.
+
 You may not use:
 
 - React
@@ -80,6 +92,8 @@ You may not use:
 - Angular
 - Component-based JavaScript
 - Any additional UI framework
+
+Before accepting AI-generated code, confirm that the classes and setup are compatible with **Tailwind CSS v4**.
 
 Additional activities:
 

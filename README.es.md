@@ -49,6 +49,16 @@ Sigue los pasos en [como comenzar un proyecto de codificacion](https://4geeks.co
 
 Importante: crea un nuevo repositorio en GitHub para tu codigo, actualiza el remoto (`git remote set-url origin <tu-nueva-url>`) y sube los cambios con `add`, `commit` y `push`.
 
+Para usar Tailwind en este proyecto sin un proceso de build, agrega dentro de tu `<head>` el CDN oficial de Tailwind CSS v4:
+
+```html
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+```
+
+Si usas IA para generar markup o clases, indícale explícitamente que debe trabajar con **Tailwind CSS v4** y verifica que **no** esté usando `cdn.tailwindcss.com` ni snippets de Tailwind v3.
+
 ---
 
 ## Que debes hacer
@@ -69,6 +79,8 @@ Solo debes usar:
 - HTML
 - Tailwind CSS
 
+Si trabajas sin build step, Tailwind debe integrarse con el **CDN de Tailwind CSS v4** mostrado arriba.
+
 No debes usar:
 
 - React
@@ -76,6 +88,8 @@ No debes usar:
 - Angular
 - JavaScript de componentes
 - Cualquier framework adicional de interfaz
+
+Antes de aceptar código generado por IA, confirma que las clases y la configuración sean compatibles con **Tailwind CSS v4**.
 
 Actividades adicionales:
 
